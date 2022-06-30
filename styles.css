@@ -1,0 +1,85 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+body {
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    background: #e5e5e5;
+    background-image: url("images/back.jpg");
+  
+}
+
+.title{
+    color: white;
+    text-shadow: 0px 0px 4px black;
+    margin: 0px;
+
+}
+
+.desc{
+    color: yellowgreen;
+    text-shadow: 0px 0px 4px black;
+    font-family: 'Square Peg', cursive;
+}
+
+
+img {
+    width: 100px;
+}
+
+.bag{
+    font-family: 'Amatic SC', cursive;
+    display: flex;
+    background: whitesmoke;
+    justify-content: space-around;
+    padding: 20px 20px 20px 20px;  
+}
+ 
+
+.food{
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+.travel{
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+
+.fest{
+    width: 200px;
+    height:100px;
+    border-radius: 20px;
+}                       
+
+
+.me{
+    color: white;
+    font-family: 'Architects Daughter', cursive;
+    margin-right: 100px;
+    text-align: right;
+    
+}
+.but{
+    padding: 2px 10px;
+    font-family: 'Architects Daughter', cursive;
+    border-radius: 10px;
+    border:none;
+    background: whitesmoke;
+    }
+.but:hover{
+    background: #aacc00;
+}
+
+.food:hover{
+    background: white;
+}
