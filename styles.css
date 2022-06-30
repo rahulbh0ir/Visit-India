@@ -65,6 +65,7 @@ img {
 
 .me{
     color: white;
+    text-shadow: 0px 0px 4px black;
     font-family: 'Architects Daughter', cursive;
     margin-right: 100px;
     text-align: right;
