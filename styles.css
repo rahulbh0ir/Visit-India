@@ -12,7 +12,8 @@ body {
     text-align: center;
     background: #e5e5e5;
     background-image: url("images/back.jpg");
-  
+    background-repeat: no-repeat;
+
 }
 
 .title{
