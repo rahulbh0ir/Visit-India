@@ -1,12 +1,4 @@
-/**
-Palette: https://scrimba.com/links/hometown-palette
-RED: #E63946
-LIGHT: #F1FAEE
-AQUA: #A8DADC
-LIGHT BLUE: #457B9D
-DARK BLUE: #1D3557
 
-*/
 body {
     font-family: 'Sacramento', cursive;
     text-align: center;
@@ -14,6 +6,12 @@ body {
     background-image: url("images/back.jpg");
     background-repeat: no-repeat;
 
+}
+
+.main{
+    font-size: 35;
+    color: white;
+    text-shadow: 0px 0px 4px black;     
 }
 
 .title{
@@ -80,8 +78,4 @@ img {
     }
 .but:hover{
     background: #aacc00;
-}
-
-.food:hover{
-    background: white;
 }
